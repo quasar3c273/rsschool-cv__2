@@ -53,3 +53,7 @@ const plural = (single, plural, plural2, count) => {
 
 - online courses [Vladilen Minin](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
 - certificates from "SoloLearn.com"
+
+### English language
+
+Proficiency level - **A2**
